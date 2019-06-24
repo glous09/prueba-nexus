@@ -34,7 +34,7 @@ input, select, label {
 
 .form-area {
     background-color: white;
-    height: 570px;
+    height: auto;
 }
 
 .btn {
