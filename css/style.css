@@ -1,0 +1,72 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+input, select, label {
+    border-radius: 5%;
+}
+
+.container-fluid {
+    background-color: #f2eded;
+}
+
+.menu-bar {
+    text-decoration: none;
+    text-decoration-color: beige;
+}
+
+.menu-bar a {
+    color: #fff;
+}
+
+.cotiza {
+    background-color: #74268c;
+    height: 350px;
+}
+
+.cotiza-seccion-2 {
+      background-color: #379e97;
+      height: 350px;
+    
+}
+
+.form-area {
+    background-color: white;
+    height: 570px;
+}
+
+.btn {
+    border-radius: 5%;
+    height: 100px;
+}
+
+.msi,
+.beneficios,
+.cobertura,
+.contratacion,
+.otros,
+.renovar,
+.siniestro,
+.qualitas-mexico,
+.redes-sociales {
+  background-color: #fff;
+  height: auto;
+}
+
+.img-cobertura {
+    width: 100%;
+}
+
+.otros a {
+    background-color: #2e0de5;
+    display: inline-block;
+    margin-top: 5px;
+    color:white;
+    width: 100px;
+    height: 40px;
+    padding: 6px;
+}
+
+
